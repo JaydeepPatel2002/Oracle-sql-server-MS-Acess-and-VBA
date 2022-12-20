@@ -1,0 +1,9 @@
+drop table author cascade constraints;
+drop table editor cascade constraints;
+drop table publisher cascade constraints;
+drop table roysched cascade constraints;
+drop table sale cascade constraints;
+drop table salesdetail cascade constraints;
+drop table title cascade constraints;
+drop table titleauthor cascade constraints;
+drop table titleeditor cascade constraints;
